@@ -15,7 +15,7 @@ Arduino-based traffic light simulator with timed sequence control.
 ![Circuit Diagram](Media/circuit-diagram.png)
 
 ## Project Media
-![Working Project](https://drive.google.com/file/d/1JWm2L4IJGw7lL7AngL84dj5aizoNo5hC/view?usp=sharing)
+[Working Project](https://drive.google.com/file/d/1JWm2L4IJGw7lL7AngL84dj5aizoNo5hC/view?usp=sharing)
 
 ## Code Explanation
 This project implements a state machine to control traffic light sequences with configurable timing.

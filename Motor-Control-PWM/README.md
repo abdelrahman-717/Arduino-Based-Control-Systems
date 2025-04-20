@@ -23,7 +23,7 @@ This project demonstrates how to control the **speed and direction of a DC motor
 | Motor Enable (ENA) | 10 | PWM control for motor speed (L293D EN1) |
 | Direction Switch | 0 (D0) | Toggles motor direction |
 | Motor Output | L293D OUT1 & OUT2 | Connected to motor terminals |
-| L293D Power | VS = Motor Voltage (e.g., 12V), VSS = 5V from Arduino |
+| L293D Power | VS = Motor Voltage (e.g., 12V), VSS = 5V |
 
 > 🧠 The L293D is used to drive the motor in both directions and handle higher current loads. The Arduino controls speed with PWM and direction via digital pins.
 

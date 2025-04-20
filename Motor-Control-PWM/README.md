@@ -30,7 +30,7 @@ This project demonstrates how to control the **speed and direction of a DC motor
 ## 🧪 Project Simulation (Proteus)
 The complete circuit was designed and tested in **Proteus 8.0** before hardware implementation. Below is the screenshot of the simulated setup:
 
-![Proteus Simulation](circuit-diagram.png)
+![Proteus Simulation](Media/circuit-diagram.png)
 
 > 🧪 *The simulation validated the motor behavior when adjusting the potentiometer and toggling the switch.*
 

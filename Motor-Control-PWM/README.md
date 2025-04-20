@@ -32,7 +32,8 @@ The complete circuit was designed and tested in **Proteus 8.0** before hardware 
 
 ![Proteus Simulation](Media/circuit-diagram.png)
 
-![Simulation Video](https://drive.google.com/file/d/1FJF508eEPfV3PKld9zPLjPjOqcNk_0OA/view?usp=drive_link)
+## Simulation Video
+![Click Here](https://drive.google.com/file/d/1FJF508eEPfV3PKld9zPLjPjOqcNk_0OA/view?usp=drive_link)
 
 > 🧪 *The simulation validated the motor behavior when adjusting the potentiometer and toggling the switch.*
 

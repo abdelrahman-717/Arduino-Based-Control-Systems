@@ -34,35 +34,5 @@ The complete circuit was designed and tested in **Proteus 8.0** before hardware 
 
 > 🧪 *The simulation validated the motor behavior when adjusting the potentiometer and toggling the switch.*
 
-## 🧾 Code Snippet
-```cpp
-int dir1 = 13;
-int dir2 = 12;
-int Switch = 0;
-int speed;
-int potPin = A0;
-int motorPin = 10;
-
-void setup() {
-  pinMode(dir1, OUTPUT);
-  pinMode(dir2, OUTPUT);
-  pinMode(Switch, INPUT);
-}
-
-void loop() {
-  if (digitalRead(Switch) == HIGH) {
-    digitalWrite(dir1, HIGH);
-    digitalWrite(dir2, LOW);
-  } else {
-    digitalWrite(dir1, LOW);
-    digitalWrite(dir2, HIGH);
-  }
-
-  speed = analogRead(potPin) / 4;
-  analogWrite(motorPin, speed);
-  delay(20);
-}
-```
-
 ## 📦 Libraries Used
 - **None** — All functions used are part of the **default Arduino core library**.

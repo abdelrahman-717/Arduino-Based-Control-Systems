@@ -1,5 +1,5 @@
 
-# 💡 DC Motor Speed and Direction Control using Arduino and PWM
+# 💡 DC Motor Speed and Direction Control via Arduino and PWM
 
 ## 🧠 Overview
 This project demonstrates how to control the **speed and direction of a DC motor** using an Arduino Uno, an **L293D motor driver**, and a potentiometer. The direction is toggled via a push-button, while speed is adjusted using **Pulse Width Modulation (PWM)** based on analog input from a potentiometer. The full circuit was simulated using **Proteus 8.0**.

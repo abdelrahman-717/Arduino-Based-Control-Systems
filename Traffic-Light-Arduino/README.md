@@ -14,7 +14,7 @@ Arduino-based traffic light simulator with timed sequence control.
 ## Circuit Diagram
 ![Circuit Diagram](images/circuit-diagram.jpg)
 
-## Project Photos
+## Project Media
 ![Working Project](images/working-project.jpg)
 
 ## Code Explanation
